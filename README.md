@@ -6,9 +6,14 @@
 
 - 🌱 I'm currently learning **programming languages(Java, JavaScript, TypeSciprt, etc.), my current main goals are school lessons and preparing for the postgraduate entrance examination, so these may progress quite slowly**
 
-- 📫 How to reach me : **Emails: KyanOWO_@outlook.com / KyanOWO1107@163.com**
+- 📫 How to reach me : **Emails: kyan@kyanet.work**
 
-- 📝 I sometimes write articles on **[https://kyan.7464267.xyz](https://kyan.7464267.xyz)** (may change to kyanet.work domain in future.)
+- My personal or co-working projects :
+  - [Kyanetwork Homepage](https://kyanet.work)
+  - [KyanetWorkStation](https://kws.kyanet.work)
+  - [My Meowstatus Live Board](https://ms.kyanet.work)
+
+- 📝 I sometimes write articles on my blog **[Kyan's Blog](https://blog.kyanet.work)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
