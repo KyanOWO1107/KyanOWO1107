@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kyan
+# Hi, I'm Kyan
 
 ### Just an ordinary university student full of curiosity
 
@@ -8,12 +8,16 @@
 
 - 📫 How to reach me : **Emails: kyan@kyanet.work**
 
-- My personal or co-working projects :
+- 📁 My personal or co-working projects :
   - [Kyanetwork Homepage](https://kyanet.work)
   - [KyanetWorkStation](https://kws.kyanet.work)
   - [My Meowstatus Live Board](https://ms.kyanet.work)
 
 - 📝 I sometimes write articles on my blog **[Kyan's Blog](https://blog.kyanet.work)**
+
+- ✨ If you want to sponsor me :
+  - [afdian](https://afdian.com/a/KyanOWO1107)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
